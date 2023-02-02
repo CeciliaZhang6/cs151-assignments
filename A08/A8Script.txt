@@ -1,0 +1,27 @@
+Script started on Tue Apr 19 22:37:21 2022
+[?1034h[34m~/Desktop/CS151/A8> (B[mjavac Main.java
+[34m~/Desktop/CS151/A8> (B[mjava Main 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005
+Name (q to quit): Lily
+lily
+ Frequency: 32854 
+ Uses: 11
+ Percentage: 0.095159 
+ Position: 1686
+Name (q to quit): Grace
+grace
+ Frequency: 99343 
+ Uses: 11
+ Percentage: 0.287738 
+ Position: 984
+Name (q to quit): Andric
+andric not found! Make sure you are spelling correctly :) 
+Name (q to quit): HILARY
+hilary not found! Make sure you are spelling correctly :) 
+Name (q to quit): CelenE
+celene not found! Make sure you are spelling correctly :) 
+Name (q to quit): q
+Bye!
+[34m~/Desktop/CS151/A8> (B[mexit
+exit
+
+Script done on Tue Apr 19 22:38:23 2022
