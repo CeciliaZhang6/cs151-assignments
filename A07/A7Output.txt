@@ -1,0 +1,25 @@
+Script started on Tue Apr 12 20:55:20 2022
+[?1034h[34m~/Desktop/CS151/A7> (B[mssh czhang1@165.106.10.152[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C cd /Users/ceciliazhang/Desktop/Java1 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-14.0.1.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,sserver=n,suspend=y,address=localhost:63621 -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/ceciliazhang/Library/Application Support/Code/User/workspaceStorage/abc44b851b510d2dbccb3bb66353f20cd/redhat.java/jdt_ws/Java1_93da2773/bin" Main [A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh czhang1@165.106.10.152[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kjavac[Kc BinaryHeap.java
+[34m~/Desktop/CS151/A7> (B[mjava BinaryHeap
+Offer status: true
+Offer status: true
+Offer status: true
+Offer status: true
+Offer status: true
+Offer status: true
+Current size: 6
+Offer status: false
+Offer status: false
+Jane
+WAS
+WAS
+WET
+AND
+NEEDS
+
+[34m~/Desktop/CS151/A7> (B[mexit
+exit
+
+Script done on Tue Apr 12 20:56:00 2022
